@@ -47,6 +47,11 @@ header .nav-link {
           align-items: center;
 }
 
+#logo-registro-disciplinas {
+  width: 88px;
+  height: 63px;
+}
+
 /* Configurações gerais dos slides */
 /* Parte do slide */
 #carouselExampleCaptions .carousel-caption {

@@ -40,6 +40,11 @@ header .nav-link {
           align-items: center;
 }
 
+#logo-registro-disciplinas {
+  width: 88px;
+  height: 63px;
+}
+
 /*Configurações dos Cards*/
 div .row {
   padding-top: 1rem;
